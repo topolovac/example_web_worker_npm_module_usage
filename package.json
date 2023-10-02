@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "web_worker_npm_module": "^1.0.1"
+    "web_worker_npm_module": "^1.0.4"
   },
   "devDependencies": {
     "webpack": "^5.88.2",
